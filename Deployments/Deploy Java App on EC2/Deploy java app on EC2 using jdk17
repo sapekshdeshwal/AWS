@@ -37,7 +37,7 @@
 
 ########################## Build and Deploy Java Application ###################
 
-1) git clone https://github.com/sapekshdeshwal/customer.git (Clone git repository into local machine)
+1) git clone https://github.com/sapekshdeshwal/driver.git (Clone git repository into local machine)
 
 2) cd customer ( Change directory into project folder)
 
