@@ -18,7 +18,7 @@ yum install git -y
 
 ################## Build and Deploy the Application ##################
 
-git clone https://github.com/naveen-uppala/frontend-new.git
+git clone https://github.com/sapekshdeshwal/frontend.git
 
 cd frontend
 
